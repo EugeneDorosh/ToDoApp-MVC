@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HvECD0CQnQh9K9+VIaWgb5kL8K6NOILfve909gQDwmBD34SEbjxIK4U/1bqi16D4x+q5R2JnLtwWAPTlij04ug==",
+  "dgSpecHash": "52iG12fvUPfqjjv3W/WJqFtsteEQKhTKKcOOJaUD7831czZVR45RJrQ/gDDSZafrvSqRJwD3rZ4WM4dw2I1l9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cptle\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\cptle\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

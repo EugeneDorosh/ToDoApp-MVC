@@ -4060,11 +4060,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\cptle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\obj\\",
+      "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cptle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4082,14 +4082,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj"
+            "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj"
             },
-            "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj"
+            "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj"
             }
           }
         }

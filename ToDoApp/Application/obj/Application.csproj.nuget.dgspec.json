@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\Application.csproj": {}
+    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\Application.csproj": {
+    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\cptle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\obj\\",
+        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cptle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,14 +29,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj"
+              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj"
               },
-              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj"
+              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj"
               }
             }
           }
@@ -115,14 +115,14 @@
         }
       }
     },
-    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj": {
+    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\cptle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cptle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -176,14 +176,14 @@
         }
       }
     },
-    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
+    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\cptle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cptle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -200,8 +200,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj"
+              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj"
               }
             }
           }
@@ -257,14 +257,14 @@
         }
       }
     },
-    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj": {
+    "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj",
+        "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\cptle\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\obj\\",
+        "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cptle\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -281,11 +281,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj"
+              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Infrastructure\\Infrastructure.csproj"
+              "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }

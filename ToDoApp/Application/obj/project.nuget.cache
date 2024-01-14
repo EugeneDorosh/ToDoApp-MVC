@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jk9VzUYQAd92omP50f0LbQqIuGqM5Gu3yCgeZC6I8lFyU1anDWZwzP38a/8VB6scyQpfpAVk38/fXh9m4ZGJww==",
+  "dgSpecHash": "FuxiRbhjkRLOdAid0PfHAdEbk71lwgdBbAQ6dputvN1S3vEOvRFtaUeALcZuYI1x7qJ4SvwqMH6P5e4r232vSA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cptle\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\cptle\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

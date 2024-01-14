@@ -824,11 +824,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\Domain.csproj",
+      "projectPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\cptle\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cptle\\AppData\\Roaming\\NuGet\\NuGet.Config",

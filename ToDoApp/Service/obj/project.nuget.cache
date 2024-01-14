@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "q4kfLq8e2JwalTpRezYC+ivAp4HeZiIsZLboEKKaBpbqTeFOvfXa2BQmd7X4qzdFgZI5AGUZC17cDI7RK+scYA==",
+  "dgSpecHash": "7C2bws0KFh4dueeduUJlivF+1XKc+bJbl3QqWjSKpXFJcivg7Q1a6n9a78/bP2WBsan9zPXRjQTpXqxVZVv69A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\ToDoApp\\Service\\Service.csproj",
+  "projectFilePath": "C:\\Users\\cptle\\OneDrive\\Робочий стіл\\MITP\\ToDoApp\\Service\\Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cptle\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\cptle\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
