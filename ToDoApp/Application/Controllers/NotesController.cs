@@ -6,13 +6,15 @@ using Service.Interfaces;
 using Service.Interface.IValidation;
 using ToDoApp.DTO.Response;
 using ToDoApp.Models;
+using Application.Controllers;
+using Domain.DTO.Request;
 
 namespace ToDoApp.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
     [Authorize]
-    public class NotesController : ControllerBase
+    public class NotesController : Controller
     {
         private readonly INoteRepository _noteRepository;
         private readonly IUserRepository _userRepository;
@@ -28,6 +30,32 @@ namespace ToDoApp.Controllers
             _userRepository = userRepository;
             _noteValidation = noteValidation;
             _mapper = mapper;
+        }
+
+        [HttpPost("mvc")]
+        [ProducesResponseType(200, Type = typeof(NoteDto))]
+        [ProducesResponseType(400)]
+        [AllowAnonymous]
+        public async Task<IActionResult> DemonstrateMVC(Guid id)
+        {
+            try
+            {
+                if (!ModelState.IsValid)
+                    return BadRequest(ModelState);
+
+                bool doesUserExist = await _userRepository.UserExistsAsync(id);
+                if (!doesUserExist)
+                    return NotFound("User not found.");
+
+                var notes = await _noteRepository.GetNotesAsync(id);
+                var notesDTO = _mapper.Map<IEnumerable<NoteDto>>(notes);
+
+                return View(notesDTO);
+            }
+            catch (Exception ex)
+            {
+                return StatusCode(500, ex.Message);
+            }
         }
 
         [HttpPost("notes")]
@@ -86,7 +114,7 @@ namespace ToDoApp.Controllers
         [HttpPost("notes/new")]
         [ProducesResponseType(204)]
         [ProducesResponseType(400)]
-        public async Task<IActionResult> CreateNoteAsync([FromBody] NoteDto noteDTO, Guid userId)
+        public async Task<IActionResult> CreateNoteAsync([FromBody] NoteDtoRequest noteDTO, Guid userId)
         {
             try
             {
@@ -105,7 +133,7 @@ namespace ToDoApp.Controllers
                 note.UserId = userId;
 
                 if (!await _noteRepository.CreateNoteAsync(note))
-                    return BadRequest("Couldnt create task.");
+                    return BadRequest("Couldnt create note.");
 
                 return NoContent();
             }

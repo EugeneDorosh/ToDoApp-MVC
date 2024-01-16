@@ -86,7 +86,7 @@ builder.Services.AddAuthentication(options =>
 
 //----------------------------------------------------------------------------
 
-builder.Services.AddControllers();
+builder.Services.AddControllersWithViews();
 
 builder.Services.AddEndpointsApiExplorer();
 

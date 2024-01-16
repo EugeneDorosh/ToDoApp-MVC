@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Domain.DTO.Request;
 using Microsoft.AspNetCore.Identity;
 using ToDoApp.DTO.Response;
 using ToDoApp.Models;
@@ -11,6 +12,7 @@ namespace ToDoApp.Automapper
         {
             CreateMap<User, UserDto>().ReverseMap();
             CreateMap<Note, NoteDto>().ReverseMap();
+            CreateMap<Note, NoteDtoRequest>().ReverseMap();
             CreateMap<ToDoTask, ToDoTaskDto>().ReverseMap();
             CreateMap<UserRegistrationDto, User>();
         }
